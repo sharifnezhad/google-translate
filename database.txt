@@ -1,0 +1,14 @@
+apple,سیب
+tree,درخت
+i,من
+ask,پرسیدن
+want,خواستن
+start,شروع کردن
+this,این
+is,هست
+book,کتاب
+you,تو
+hand,دست
+hi,سلام
+welcom,خوش آمدید
+amir,امیر
